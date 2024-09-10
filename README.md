@@ -5,8 +5,8 @@ HashCalc untuk menghitung berbagai jenis hash (seperti MD5, SHA1, dan CRC32) dar
 #### Kunjungi situs HashCalc untuk mengunduh aplikasi.
 Ikuti langkah-langkah untuk menginstalnya di komputer Windows Anda dengan mengikuti wizard instalasi.
 ### 2. Jalankan HashCalc
-![image](https://github.com/user-attachments/assets/b4dc968c-fd4c-4889-80f2-8a65cced8253)
 #### Setelah instalasi selesai, buka aplikasi HashCalc dari menu Start atau dari pintasan di desktop.
+![image](https://github.com/user-attachments/assets/b4dc968c-fd4c-4889-80f2-8a65cced8253)
 ### 3. Memilih Data Format dan Algoritma Hash
 #### Data format: Pilih format data yang ingin Anda hash. Anda dapat memilih antara File, Text String, Hexadecimal String, atau Data String.Jika Anda ingin menghitung hash dari file, pilih File.Jika Anda ingin menghitung hash dari teks biasa, pilih Text String.
 #### Hash Algorithms: Centang algoritma hash yang ingin Anda gunakan. HashCalc mendukung beberapa algoritma populer seperti: 
