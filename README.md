@@ -16,7 +16,7 @@ Ikuti langkah-langkah untuk menginstalnya di komputer Windows Anda dengan mengik
 #### RIPEMD160
 #### CRC32
 ![image](https://github.com/user-attachments/assets/55302b10-edad-47e9-9ca5-b32388aea67f)
-### 5. Menghitung Hash
+### 4. Menghitung Hash
 #### Setelah Anda memilih file atau memasukkan teks, dan telah memilih algoritma hash yang diinginkan, klik tombol Calculate.
 ![image](https://github.com/user-attachments/assets/16f45c93-a028-451d-911c-9828e0f1d3be)
 #### HashCalc akan langsung menghitung hash berdasarkan data yang Anda masukkan dan algoritma yang dipilih.
