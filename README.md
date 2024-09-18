@@ -1,4 +1,5 @@
 # Menghitung-Hash-Satu-Arah-Menggunakan-HashCalc
+## file pdf  : https://github.com/firmansultoni/Menghitung-Hash-Satu-Arah-Menggunakan-HashCalc/blob/main/Menghitung-Hash-Satu-Arah-Menggunakan-HashCalc.pdf
 HashCalc untuk menghitung berbagai jenis hash (seperti MD5, SHA1, dan CRC32) dari file atau teks string.
 ## Langkah-langkah untuk Menggunakan HashCalc di Windows
 ### 1. Unduh dan Instal HashCalc
